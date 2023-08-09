@@ -3,8 +3,8 @@ torch
 Pillow
 typing~=3.7.4.3
 torchvision
-opencv-python~=4.5.5.64
-numpy~=1.22.4
+opencv-python
+numpy
 loguru~=0.6.0
 uvicorn~=0.17.6
 fastapi~=0.78.0
